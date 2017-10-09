@@ -1,0 +1,73 @@
+辻くんと作るお酒講座
+
+
+10/3
+	- xcodeアップデート（永田）
+	- Slackの導入（永田） 完了
+	- カクテルAPIの検索（永田）
+	- 他サービスの調査（永田，辻くん）
+	- カクテルのデータをスプレッドシートに書き出し（永田）
+	- 味，強さをスプレッドシートに追加（永田）
+	- UI（辻くん）
+	- githubの環境設定（辻くん）
+	- スプレッドシートからの読み込み（未定）
+
+10/8（日）
+	・Xcode 9.0
+	・rbenv(rubyのバージョン管理) ruby 2.3.1  
+	・cocoapods(ライブラリ管理ツール)  
+	・sourcetree
+		→　以上，10/9（月）19:00までに完了する
+
+
+開発環境周辺
+	Githubの使用
+	コメントアウトや，pullリクのrebiew
+	使用するライブラリ xcodeバージョン更新
+	共有するパッケージなどはgitのReadMeで共有
+	chatツール　→　Slackの検討
+
+
+アプリの立ち位置
+	大手のアプリといかに差別化するか？
+	このアプリの強みは？
+		とっつきやすいアプリ
+		他サービスとの連携
+
+	新規ユーザーをどう取り込む？
+		push通知
+		天気アプリとの連携
+		興味を持ってもらえるようなシステム
+		雰囲気，お酒にあった音楽の提供　逆もアリ
+			お酒に属性を付与
+		人気ツイートから自動でレシピを追加
+
+リンク集
+	別メモ
+		https://www.evernote.com/shard/s702/sh/bf7d0c6f-a95f-4de9-b1eb-a51142023143/dd06d140f0ce424710789f0d847d557d
+	github カクテルAPI
+		https://github.com/kkkkou/uchicock
+	APIコマンド集
+		https://wiki.apache.org/couchdb/API_Cheatsheet
+
+	Slack関連
+		workspace
+			https://cocktailapp.slack.com/messages/C7DP6JB4Z/
+		Trelloの導入（タスク管理用）
+
+			https://wiki.apache.org/couchdb/API_Cheatsheet
+		絵文字
+			https://github.com/berkus/slack-emoji
+
+	github関連
+		git-flow導入
+			https://qiita.com/KosukeSone/items/514dd24828b485c69a05
+
+	xcode開発関連
+		CocoaPods導入（ライブラリ管理）
+			https://qiita.com/KosukeSone/items/514dd24828b485c69a05
+
+
+
+
+
